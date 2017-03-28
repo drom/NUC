@@ -1,0 +1,338 @@
+solid csg.js
+facet normal -1 0 0
+outer loop
+vertex 0.2 0.2 0.2
+vertex 0.2 0.2 6.9
+vertex 0.2 6.9 6.9
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 0.2 0.2 0.2
+vertex 0.2 6.9 6.9
+vertex 0.2 6.9 0.2
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 0.7 0.2 0.2
+vertex 0.7 6.9 0.2
+vertex 0.7 6.9 6.9
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 0.7 0.2 0.2
+vertex 0.7 6.9 6.9
+vertex 0.7 0.2 6.9
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 0.2 0.2 0.2
+vertex 0.7 0.2 0.2
+vertex 0.7 0.2 6.9
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 0.2 0.2 0.2
+vertex 0.7 0.2 6.9
+vertex 0.2 0.2 6.9
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0.2 6.9 0.2
+vertex 0.2 6.9 6.9
+vertex 0.7 6.9 6.9
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0.2 6.9 0.2
+vertex 0.7 6.9 6.9
+vertex 0.7 6.9 0.2
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 0.2 0.2 0.2
+vertex 0.2 6.9 0.2
+vertex 0.7 6.9 0.2
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 0.2 0.2 0.2
+vertex 0.7 6.9 0.2
+vertex 0.7 0.2 0.2
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0.2 0.2 6.9
+vertex 0.7 0.2 6.9
+vertex 0.7 6.9 6.9
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0.2 0.2 6.9
+vertex 0.7 6.9 6.9
+vertex 0.2 6.9 6.9
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 4.4 0.3 3
+vertex 4.4 0.3 6.9399999999999995
+vertex 4.4 5.22 6.9399999999999995
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 4.4 0.3 3
+vertex 4.4 5.22 6.9399999999999995
+vertex 4.4 5.22 3
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 6.9 0.3 3
+vertex 6.9 5.22 3
+vertex 6.9 5.22 6.9399999999999995
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 6.9 0.3 3
+vertex 6.9 5.22 6.9399999999999995
+vertex 6.9 0.3 6.9399999999999995
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 4.4 0.3 3
+vertex 6.9 0.3 3
+vertex 6.9 0.3 6.9399999999999995
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 4.4 0.3 3
+vertex 6.9 0.3 6.9399999999999995
+vertex 4.4 0.3 6.9399999999999995
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 4.4 5.22 3
+vertex 4.4 5.22 6.9399999999999995
+vertex 6.9 5.22 6.9399999999999995
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 4.4 5.22 3
+vertex 6.9 5.22 6.9399999999999995
+vertex 6.9 5.22 3
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 4.4 0.3 3
+vertex 4.4 5.22 3
+vertex 6.9 5.22 3
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 4.4 0.3 3
+vertex 6.9 5.22 3
+vertex 6.9 0.3 3
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 4.4 0.3 6.9399999999999995
+vertex 6.9 0.3 6.9399999999999995
+vertex 6.9 5.22 6.9399999999999995
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 4.4 0.3 6.9399999999999995
+vertex 6.9 5.22 6.9399999999999995
+vertex 4.4 5.22 6.9399999999999995
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 0 0 0
+vertex 0 0 7.1
+vertex 0 7.1 7.1
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 0 0 0
+vertex 0 7.1 7.1
+vertex 0 7.1 0
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 7.1 0 0
+vertex 7.1 7.1 0
+vertex 7.1 7.1 7.1
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 7.1 0 0
+vertex 7.1 7.1 7.1
+vertex 7.1 0 7.1
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 0 0 0
+vertex 7.1 0 0
+vertex 7.1 0 7.1
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 0 0 0
+vertex 7.1 0 7.1
+vertex 0 0 7.1
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0 7.1 0
+vertex 0 7.1 7.1
+vertex 7.1 7.1 7.1
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0 7.1 0
+vertex 7.1 7.1 7.1
+vertex 7.1 7.1 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 0 0 0
+vertex 0 7.1 0
+vertex 7.1 7.1 0
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 0 0 0
+vertex 7.1 7.1 0
+vertex 7.1 0 0
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0 0 7.1
+vertex 7.1 0 7.1
+vertex 7.1 7.1 7.1
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 0 0 7.1
+vertex 7.1 7.1 7.1
+vertex 0 7.1 7.1
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 0.1 6.999999999999999 0.1
+vertex 0.1 6.999999999999999 6.999999999999999
+vertex 0.1 0.1 6.999999999999999
+endloop
+endfacet
+facet normal 1 0 0
+outer loop
+vertex 0.1 6.999999999999999 0.1
+vertex 0.1 0.1 6.999999999999999
+vertex 0.1 0.1 0.1
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 6.999999999999999 0.1 6.999999999999999
+vertex 6.999999999999999 6.999999999999999 6.999999999999999
+vertex 6.999999999999999 6.999999999999999 0.1
+endloop
+endfacet
+facet normal -1 0 0
+outer loop
+vertex 6.999999999999999 0.1 6.999999999999999
+vertex 6.999999999999999 6.999999999999999 0.1
+vertex 6.999999999999999 0.1 0.1
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0.1 0.1 6.999999999999999
+vertex 6.999999999999999 0.1 6.999999999999999
+vertex 6.999999999999999 0.1 0.1
+endloop
+endfacet
+facet normal 0 1 0
+outer loop
+vertex 0.1 0.1 6.999999999999999
+vertex 6.999999999999999 0.1 0.1
+vertex 0.1 0.1 0.1
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 6.999999999999999 6.999999999999999 0.1
+vertex 6.999999999999999 6.999999999999999 6.999999999999999
+vertex 0.1 6.999999999999999 6.999999999999999
+endloop
+endfacet
+facet normal 0 -1 0
+outer loop
+vertex 6.999999999999999 6.999999999999999 0.1
+vertex 0.1 6.999999999999999 6.999999999999999
+vertex 0.1 6.999999999999999 0.1
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 6.999999999999999 0.1 0.1
+vertex 6.999999999999999 6.999999999999999 0.1
+vertex 0.1 6.999999999999999 0.1
+endloop
+endfacet
+facet normal 0 0 1
+outer loop
+vertex 6.999999999999999 0.1 0.1
+vertex 0.1 6.999999999999999 0.1
+vertex 0.1 0.1 0.1
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 0.1 6.999999999999999 6.999999999999999
+vertex 6.999999999999999 6.999999999999999 6.999999999999999
+vertex 6.999999999999999 0.1 6.999999999999999
+endloop
+endfacet
+facet normal 0 0 -1
+outer loop
+vertex 0.1 6.999999999999999 6.999999999999999
+vertex 6.999999999999999 0.1 6.999999999999999
+vertex 0.1 0.1 6.999999999999999
+endloop
+endfacet
+endsolid csg.js
