@@ -1,1 +1,0 @@
-Mini-STX based NUC
